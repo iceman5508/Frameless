@@ -5,8 +5,6 @@ namespace FramelessPHP\ibase;
  * This class provides an abstract framelessApi class from which other framelessApi classes
  * or resources can be created.
  *
- * credit to http://coreymaynard.com/blog/creating-a-restful-api-with-php/
- * for full tutorial and code inspiration.
  */
 abstract class API
 {
